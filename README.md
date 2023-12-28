@@ -1,2 +1,2 @@
 # JPMC Task 3
-Starter repo for task 3 of JPMC's Forage program
+Starter repo on How traders use a trading dashboard for trading analysis and stock price monitoring
